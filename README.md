@@ -10,11 +10,9 @@ This is a single player tank game written solely on Java.
 
 
 # Menu 
-<a href="url"><img src="https://github.com/rimanov/TankGame/blob/main/resources/menu.png" align="left" height="600" width="600" ></a>
-
-
+<a href="url"><img src="https://github.com/rimanov/TankGame/blob/main/resources/menu.png" align="center" height="600" width="600" ></a>
 
 
 # In Action 
-<a href="url"><img src="https://github.com/rimanov/TankGame/blob/main/resources/action.png" align="left" height="600" width="600" ></a>
+<a href="url"><img src="https://github.com/rimanov/TankGame/blob/main/resources/action.png" align="center" height="600" width="600" ></a>
 
