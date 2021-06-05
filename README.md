@@ -11,4 +11,4 @@ This is a single player tank game written solely on Java.
 
 # Menu 
 
-![alt text](https://github.com/rimanov/TankGame/blob/main/resources/menu.png?raw=true){:height="50%" width="50%"}
+![alt text](https://github.com/rimanov/TankGame/blob/main/resources/menu.png?raw=true){:height="20%" width="20%"}
