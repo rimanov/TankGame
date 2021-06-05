@@ -7,3 +7,8 @@ This is a single player tank game written solely on Java.
 * All tanks have the ability to move and shoot shells. 
 
 * WASD keys are used for movement and SPACE bar is used for firing shells. Press ESC to exit the game and return to menu. 
+
+
+# Menu 
+
+![alt text](https://github.com/rimanov/TankGame/blob/main/menu.png?raw=true)
