@@ -1,6 +1,6 @@
 # Tank Game 
 
-* This is a single player tank game written solely on Java.
+This is a single player tank game written solely on Java.
 
 * There are two Ai bots present in the game that follow and hunt down the player tank. 
 
